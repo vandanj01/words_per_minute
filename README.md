@@ -7,37 +7,42 @@ personalized insights for improvement.
 
 #Technologies Used
 1. Programming Language: Python
-Reason for Selection: Python is widely recognized for its
+
+Python is widely recognized for its
 simplicity, versatility, and extensive libraries. Its support for the
 curses library makes it an ideal choice for creating text-based
 terminal applications like the WPM Analyser.
 
-2. Library: curses
-Reason for Selection: The curses library facilitates the
+4. Library: curses
+
+The curses library facilitates the
 creation of terminal-based applications with enhanced text
 formatting, real-time input handling, and dynamic content
 updates. It is lightweight and perfectly suited for a project that
 requires real-time updates like a typing test.
 
-4. Random Module (Python Built-In)
-Reason for Selection: The random module is used to
+5. Random Module (Python Built-In)
+
+The random module is used to
 randomly select typing prompts from a file, ensuring variety
 and unpredictability in the tests.
 
 6. File Handling (open function in Python)
-Reason for Selection: Used to read typing prompt texts from
+
+Used to read typing prompt texts from
 an external file, making the application modular and allowing
 easy updates to the database of typing texts.
 
 8. Hardware: Standard Computer or Laptop
-Reason for Selection: The project is designed to run on any
+
+The project is designed to run on any
 system with a terminal, requiring no specialized hardware. A
 standard keyboard and monitor are all that is needed to use
 the WPM Analyser.
 
 10. Software: Terminal and Python Environment
 
-Reason for Selection: Terminals provide a simple, accessible
+Terminals provide a simple, accessible
 interface for running Python-based terminal applications.
 Python can be installed easily on most operating systems,
 ensuring wide compatibility.
