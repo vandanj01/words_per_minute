@@ -5,7 +5,7 @@ accuracy by highlighting correct and incorrect text, categorizes
 users based on conventional typing norms, and offers
 personalized insights for improvement.
 
-##Technologies Used
+#Technologies Used
 1. Programming Language: Python
 Reason for Selection: Python is widely recognized for its
 simplicity, versatility, and extensive libraries. Its support for the
